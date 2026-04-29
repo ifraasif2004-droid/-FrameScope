@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Point A", "info": "GeoJSON feature A" },
+      "geometry": { "type": "Point", "coordinates": [73.0600, 33.7000] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Point B", "info": "GeoJSON feature B" },
+      "geometry": { "type": "Point", "coordinates": [73.0200, 33.6600] }
+    }
+  ]
+}
